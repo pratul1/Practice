@@ -1,2 +1,1 @@
-# Practice
-Sample Practice Java codes
+# Practice-
